@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/shape_white_curved"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageView_app_icon"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_white_curved"
+            app:layout_constraintBottom_toTopOf="@+id/textView_app_name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed"
+            app:srcCompat="@drawable/ic_launcher_background" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView_app_icon"
+            app:layout_constraintEnd_toEndOf="@+id/imageView_app_icon"
+            app:layout_constraintStart_toEndOf="@+id/imageView_app_icon"
+            app:srcCompat="@drawable/ic_danger_icon" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView_app_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:maxLength="20"
+            android:maxLines="1"
+            android:text="Facebook"
+            android:textColor="@color/black"
+            app:autoSizeMaxTextSize="24sp"
+            app:autoSizeTextType="uniform"
+            app:layout_constraintBottom_toTopOf="@+id/textView_app_version"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_app_icon" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView_app_version"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:text="Version: 5.4.1"
+            android:textSize="12dp"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_size"
+            app:layout_constraintEnd_toStartOf="@+id/textView_size"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textView_size" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView_size"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Size: 23.5 MB"
+            android:textSize="12dp"
+            app:layout_constraintEnd_toStartOf="@+id/textView_date"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/textView_app_version"
+            app:layout_constraintTop_toBottomOf="@+id/textView_app_name" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_medium"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="Date: 12/12/021"
+            android:textSize="12dp"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_size"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/textView_size"
+            app:layout_constraintTop_toTopOf="@+id/textView_size" />
+
+
+        <ScrollView
+            android:layout_marginTop="12dp"
+            android:id="@+id/scrollView4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintHeight_max="320dp"
+            app:layout_constraintBottom_toTopOf="@+id/textView_un_ins"
+            app:layout_constraintEnd_toEndOf="@+id/textView_date"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/textView_app_version"
+            app:layout_constraintTop_toBottomOf="@+id/textView_app_version">
+
+            <LinearLayout
+                android:id="@+id/ll_thread_permission_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </ScrollView>
+
+
+        <TextView
+            android:id="@+id/textView_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="25dp"
+            android:background="@drawable/ripple_flat"
+            android:padding="10dp"
+            android:text="Cancel"
+            app:autoSizeMaxTextSize="18sp"
+            app:autoSizeTextType="uniform"
+            app:layout_constraintBottom_toBottomOf="@+id/textView_un_ins"
+            app:layout_constraintEnd_toStartOf="@+id/textView_un_ins"
+            app:layout_constraintTop_toTopOf="@+id/textView_un_ins" />
+
+        <TextView
+            android:id="@+id/textView_un_ins"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:background="@drawable/ripple_flat"
+            android:padding="10dp"
+            android:text="Uninstall"
+            android:textColor="@color/color_red_1"
+            app:autoSizeMaxTextSize="18sp"
+            app:autoSizeTextType="uniform"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910580994720",
+    "firebase_url": "https://supercleanernew-default-rtdb.firebaseio.com",
+    "project_id": "supercleanernew",
+    "storage_bucket": "supercleanernew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910580994720:android:0ccb7602a3c2b20bab6fc5",
+        "android_client_info": {
+          "package_name": "com.example.junckcleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910580994720-rrpshtv7v81e7kskvmm9bqft35vujks5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4weDt4d-NSHa_dntCUneoNEb7iMJMzHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910580994720-rrpshtv7v81e7kskvmm9bqft35vujks5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

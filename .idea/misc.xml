@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable-v24/customcheckbox.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable-v24/horz_prog_bar_white.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/audio_icon_ic.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/audio_scan_ic.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/back.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/back_icon_ic.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/background_button_still1.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/background_pressed_button.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/background_pressed_button2.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/background_still_button.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/btn_bg_start.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/custom_checkbox.xml" value="0.3229166666666667" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/customcheckbox.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/dashed_divider_bg.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/horz_prog_bar_1.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/horz_prog_bar_white_90.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_apks_circle_full.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_arrow_up_black.xml" value="0.26145833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_audio_icon.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_back_white.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_battery_icon.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_delete_icon.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_document_icon.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_down_black_icon.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_duplicate_scanner_header.xml" value="0.2953703703703704" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_duplicate_videos.xml" value="0.3125" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_fingerprint_disable.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_fingerprint_icon.xml" value="0.29375" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_not_seleceted_icon.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_scan_duplicate_images.xml" value="0.33697916666666666" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_share_one.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_shield_done.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ic_shield_done_small.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/layout_feedback_info_dialog.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/less_round_white_bg.xml" value="0.3484375" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/pressedstate.xml" value="0.23541666666666666" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/pressedstate1.xml" value="0.25677083333333334" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_duplicate_scan_main.xml" value="0.2042763157894737" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_duplicate_scan_orange.xml" value="0.2042763157894737" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_duplicate_scan_red.xml" value="0.3307291666666667" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_duplicate_scan_yellow.xml" value="0.3125" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_flat.xml" value="0.303125" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_grediant_dialog_button.xml" value="0.2953703703703704" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_main_color_curved.xml" value="0.31614583333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_main_color_curved_2_dp.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_rate_us.xml" value="0.28055555555555556" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/ripple_stroke_curved_third.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/round.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/selector_custom_checkbox.xml" value="0.3229166666666667" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/selector_custom_checkbox_apps.xml" value="0.33489583333333334" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/selector_custom_checkbox_blue.xml" value="0.2243421052631579" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/selector_custom_checkbox_red.xml" value="0.2243421052631579" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_alert_curved.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_curved_white_trans.xml" value="0.2953125" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_duplicate_file_button_big.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_duplicate_item_bg.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_gradient_maincolor_1.xml" value="0.2953703703703704" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_gradient_red_1.xml" value="0.31666666666666665" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_header_duplicate_audios.xml" value="0.32760416666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_header_duplicate_docs.xml" value="0.32760416666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_header_duplicate_iamge.xml" value="0.33697916666666666" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_header_duplicate_videos.xml" value="0.32760416666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_stroke_bellow_curved_white_opacity_10.xml" value="0.2953125" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_stroke_curved_white_opacity_10.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_stroke_curved_white_trans.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/shape_white_curved.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/smart_header_.xml" value="0.2953703703703704" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/drawable/video_icon_ic.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_activityintrudor_detail.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_add_security_email.xml" value="0.32407407407407407" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_alert_dialog.xml" value="0.2" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_antivirus.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_application_protected.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_apps_locker.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_apps_managments.xml" value="0.31875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_battery_saver.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_boost.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_change_pattern.xml" value="0.287962962962963" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_cpu_cooler.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_create_pin.xml" value="0.32407407407407407" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_delete.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_dnd.xml" value="0.32447916666666665" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_duplicate_comman_layout.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_duplicate_file_scanner.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_enter_pin.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_feedback.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_forgot_password.xml" value="0.31527777777777777" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_game_booster.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_ignored_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_intruders_record.xml" value="0.33796296296296297" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_junk.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_lock_settings.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_more_apps.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_notification_manager.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_noty_apps.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_select_game_booster_apps.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_set_security_question.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_smart_charge.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_splash.xml" value="0.8386308068459658" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/activity_test.xml" value="0.21875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/ad_unified.xml" value="0.2694736842105263" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/ad_unified_exit.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/ad_unified_shimmer.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/ad_unified_small.xml" value="0.5" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/adapter_similar_audio.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/adapter_similar_document.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/adapter_similar_images_videos.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/adapter_similar_others.xml" value="0.13697916666666668" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/confirmation_dialog.xml" value="0.28854166666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/dialog_saf_permission.xml" value="0.28854166666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_all_files.xml" value="0.2" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_audios.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_documents.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_finger.xml" value="0.33177083333333335" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_finger_print.xml" value="0.30625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_gallery.xml" value="0.28854166666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_home_new.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_images.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_me.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_notification_manager.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_toolbar.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/fragment_videos.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/group_audios.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/group_document.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/group_images.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/group_others.xml" value="0.2296875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/group_video.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/item_more_apps.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_danger_apps_not_found.xml" value="0.3265625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_dangerous_app.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_finished.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_no_thread.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_result.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_scanning.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_un_install_dialog.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_virus_found.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_antivirus_virus_not_found.xml" value="0.3260416666666667" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_applock_two_in_on_dialog.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_automatically_lock_dialog.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_battery_finished.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_boosted_finished.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_cpu_cooler_finished.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_create_pattern.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_deep_clean_item.xml" value="0.32447916666666665" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_draw_pattern.xml" value="0.24322916666666666" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_duplicate_file_delete_dialog.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_duplicate_finished.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_duplicate_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_exit_ad.xml" value="0.31527777777777777" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_exit_bottom.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_exit_button.xml" value="0.31527777777777777" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_exit_for_you.xml" value="0.31527777777777777" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_feedback_info_dialog.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_file_delete_dialog.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_for_apps_dialog.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_for_you_item.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_intrudors_item.xml" value="0.33796296296296297" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_item_noty_apps.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_item_noty_messages.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_junk_finished.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_junk_remide_frequency_dialog.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_loading_dialog.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_automatically_lock.xml" value="0.5" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_bibration_feedback.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_change_password.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_change_pattern.xml" value="0.287962962962963" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_change_question.xml" value="0.67" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_enable_pattern.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_fingerprint.xml" value="0.5" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_intruder_selfie.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_new_alert.xml" value="0.5" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_security_email.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_selfie.xml" value="0.5" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_sequrity_email.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_text_general_settings.xml" value="0.2765625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_text_gerenal_settings.xml" value="0.2765625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_text_security_settings.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_locker_settings_vibration_feedback.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_notification_needed_dialog.xml" value="0.2" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_notification_reminder.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_rate_us_dialog.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_set.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_app_install.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_app_un_install.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_application_protected.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_battery_saver.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_booster_reminder.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_cpu_cooler_reminder.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_create_shortcut.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_dnd.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_ignore_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_junk_frequency.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_real_time_protection.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_text_antivirus_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_text_general_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_text_gerernal_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_settings_text_notification_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_small_add_shimmar.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_small_add_shimmer.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_thread_permission_item.xml" value="0.2" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/layout_verification_otf.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/memory_popup.xml" value="0.2390625" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_1.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_2.xml" value="0.31527777777777777" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_app_locker.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_game_booster.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_game_booster2.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/recyclerview_item_uninstall.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/regained_popup.xml" value="0.28854166666666664" />
+        <entry key="..\:/SyncMedia/Doing/SuperCleaner/app/src/main/res/layout/regained_single_popup.xml" value="0.2296875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/drawable/ic_not_seleceted_icon.xml" value="0.31875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/drawable/ic_unchecked.xml" value="0.31875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/drawable/selector_custom_checkbox.xml" value="0.31875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_activityintrudor_detail.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_antivirus.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_boost.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_feedback.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_forgot_password.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/activity_junk.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/adapter_similar_document.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_danger_apps_not_found.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_no_thread.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_result.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_un_install_dialog.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_virus_found.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_antivirus_virus_not_found.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_applock_two_in_on_dialog.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_automatically_lock_dialog.xml" value="0.33489583333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_battery_finished.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_create_pattern.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_duplicate_file_delete_dialog.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_exit_for_you.xml" value="0.35052083333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_junk_remide_frequency_dialog.xml" value="0.33489583333333334" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/layout_virus_select.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/recyclerview_item_1.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Done/NewSuperCleaner/SuperCleaner/app/src/main/res/layout/recyclerview_item_2.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/SuperCleaner/app/src/main/res/layout/activity_alert_dialog.xml" value="0.1971252566735113" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_activityintrudor_detail.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_add_security_email.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_alert_dialog.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_antivirus.xml" value="0.18" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_application_protected.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_apps_managments.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_battery_saver.xml" value="0.1765625" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_boost.xml" value="0.33" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_cpu_cooler.xml" value="0.2" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_delete.xml" value="0.11151315789473684" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_dnd.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_duplicate_comman_layout.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_duplicate_file_scanner.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_feedback.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_game_booster.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_ignored_list.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_intruders_record.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_lock_settings.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_main.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_more_apps.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_notification_manager.xml" value="0.11151315789473684" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_noty_apps.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_select_game_booster_apps.xml" value="0.11151315789473684" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_settings.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_smart_charge.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/activity_splash.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/ad_unified.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/ad_unified_small.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/adapter_similar_audio.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/adapter_similar_document.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/adapter_similar_images_videos.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/fragment_all_files.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/fragment_images.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/group_video.xml" value="0.42375" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/item_more_apps.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_antivirus_finished.xml" value="0.18" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_antivirus_result.xml" value="0.67" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_antivirus_scanning.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_antivirus_un_install_dialog.xml" value="0.18" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_applock_two_in_on_dialog.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_automatically_lock_dialog.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_battery_finished.xml" value="0.2" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_boosted_finished.xml" value="0.25" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_cpu_cooler_finished.xml" value="0.16" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_create_pattern.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_draw_pattern.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_duplicate_finished.xml" value="0.11151315789473684" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_feedback_info_dialog.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_intrudors_item.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_item_noty_apps.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_item_noty_messages.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_junk_finished.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_locke_gerenal_settings.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_set.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/layout_thread_permission_item.xml" value="0.2" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/recyclerview_item_1.xml" value="0.1921875" />
+        <entry key="..\:/Users/user/Downloads/New folder/SuperCleaner/app/src/main/res/layout/recyclerview_item_2.xml" value="0.5" />
+        <entry key="..\:/android projects/other/SuperCleanerNew/app/src/main/res/layout/layout_create_pattern.xml" value="0.1921875" />
+        <entry key="..\:/android projects/other/SuperCleanerNew/app/src/main/res/layout/layout_draw_pattern.xml" value="0.1765625" />
+        <entry key="..\:/android projects/other/SuperCleanerNew/app/src/main/res/layout/recyclerview_item_uninstall.xml" value="0.1765625" />
+        <entry key="..\:/android projects/other/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+    <option name="HEAP_SIZE" value="20" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

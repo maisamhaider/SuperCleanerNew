@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_third">#8551F4</color>
+    <color name="color_second">#553EDC</color>
+    <color name="color_main">#3833CD</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_bold_b_1">#192B63</color>
+    <color name="text_normal_b_1">#18183E</color>
+    <color name="text_normal_b_1_opacity_60">#9918183E</color>
+    <color name="text_normal_b_1_opacity_80">#CC18183E</color>
+    <color name="text_small_b_1">#192B63</color>
+    <color name="color_nav_item_1">#D2D2D2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_divider">#F6F6F6</color>
+    <color name="color_divider_2">#C2C0C0</color>
+    <color name="color_stroke">#D5E6FC</color>
+    <color name="color_stroke_2">#1A707070</color>
+    <color name="white_opacity_3">#08FFFFFF</color>
+    <color name="white_opacity_5">#0DFFFFFF</color>
+    <color name="white_opacity_10">#1AFFFFFF</color>
+    <color name="white_opacity_20">#33FFFFFF</color>
+    <color name="white_opacity_40">#66FFFFFF</color>
+    <color name="white_opacity_50">#80FFFFFF</color>
+    <color name="white_opacity_60">#99FFFFFF</color>
+    <color name="white_opacity_70">#B3FFFFFF</color>
+    <color name="white_opacity_80">#CCFFFFFF</color>
+    <color name="white_opacity_90">#E6FFFFFF</color>
+    <color name="color_mojo_1">#C23838</color>
+    <color name="color_cardinal_1">#C82121</color>
+    <color name="color_alizarin_crimson_2">#D62222</color>
+    <color name="color_red_1">#FF6060</color>
+    <color name="color_cabaret_1">#DC4574</color>
+    <color name="color_red_4">#DE6B6B</color>
+    <color name="color_puerto_rico_1">#38C6AA</color>
+    <color name="color_picton_blue_1">#33B0E9</color>
+    <color name="color_jaffa_1">#F5882F</color>
+    <color name="color_mustard_1">#ffd857</color>
+    <color name="color_yellow_sea_1">#ffab05</color>
+    <color name="color_clementine_1">#ec6a00</color>
+    <color name="color_atomic_tangerine_1">#fea55e</color>
+
+    <color name="color_cerulean_1">#0091D4</color>
+    <color name="color_cerulean_2">#0192d4</color>
+    <color name="color_malibu_1">#61CBFC</color>
+    <color name="color_malibu_2">#5fc9fb</color>
+
+    <color name="color_pink_salmon_1">#fe94b5</color>
+    <color name="color_maroon_flush_1">#c82154</color>
+
+
+    <color name="black_10">#1A000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+
+
+</resources>

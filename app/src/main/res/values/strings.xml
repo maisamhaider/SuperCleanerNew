@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Super Fast Cleaner</string>
+    <string name="home">Home</string>
+    <string name="toolbox">Toolbox</string>
+    <string name="me">Me</string>
+
+
+    //Test ads ids
+    <string name="app_open">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_video">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="rewarded">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="rewarded_interstitial">ca-app-pub-3940256099942544/5354046379</string>
+    <string name="native_advanced">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_advanced_video">ca-app-pub-3940256099942544/1044960115</string>
+
+    //Original ads ids
+    <!--    <string name="app_open">ca-app-pub-3940256099942544/3419835294</string>-->
+    <!--    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--    <string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="interstitial_video">ca-app-pub-3940256099942544/8691691433</string>-->
+    <!--    <string name="rewarded">ca-app-pub-3940256099942544/5224354917</string>-->
+    <!--    <string name="rewarded_interstitial">ca-app-pub-3940256099942544/5354046379</string>-->
+    <!--    <string name="native_advanced">ca-app-pub-3940256099942544/2247696110</string>-->
+    <!--    <string name="native_advanced_video">ca-app-pub-3940256099942544/1044960115</string>-->
+
+    <string name="clean_up">Clean up</string>
+    <string name="cpu_cooler">CPU Cooler</string>
+    <string name="game_booster">Game Booster</string>
+    <string name="phone_booster">Phone Booster</string>
+    <string name="antivirus">Antivirus</string>
+    <string name="power_saving">Power Saving</string>
+    <string name="recommended">Recommended</string>
+    <string name="private_browsing">Private Browsing</string>
+    <string name="app_lock">App Lock</string>
+    <string name="secure_browsing_and_be_anonymous">Secure browsing and be anonymous</string>
+    <string name="memory_used">Memory used</string>
+    <string name="junk_files">Junk Files</string>
+    <string name="Storage_used">Storage used</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="share">Share</string>
+    <string name="other_apps">Other apps</string>
+    <string name="like_on_facebook">Like on facebook</string>
+    <string name="super_clean_master_has_protected_your_phone">Super clean master has protected your phone</string>
+    <string name="tool_box">Tool Box</string>
+    <string name="deep_amp_boost"><![CDATA[Deep & Boost]]></string>
+    <string name="deep_clean">Deep clean</string>
+    <string name="clean_up_files_deeply_to_release_more_space">clean up files deeply to release more space</string>
+    <string name="app_management">App Management</string>
+    <string name="game_boost">Game Boost</string>
+    <string name="stop_unusual_apps_and_maintain_cooling">Stop unusual apps and maintain cooling</string>
+    <string name="notification_manager">Notification Manager</string>
+    <string name="battery_saver">Battery Saver</string>
+    <string name="question_mark">\?</string>
+    <string name="system_info">Your system info will be sent to Super Cleaner<br></br> tech Department</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="duplicate_audio">Audio Duplicates</string>
+    <string name="Confirm_Delete">Confirm Delete</string>
+    <string name="Deleting_duplicate_audio_please_wait">Deleting duplicate audio, please wait…</string>
+    <string name="Deleting_duplicate_audios_please_wait">Deleting duplicate audios, please wait…</string>
+    <string name="Deleting_duplicate_document_please_wait">Deleting duplicate document, please wait…</string>
+    <string name="Deleting_duplicate_documents_please_wait">Deleting duplicate documents, please wait…</string>
+    <string name="Deleting_duplicate_image_please_wait">Deleting duplicate image, please wait…</string>
+    <string name="Deleting_duplicate_images_please_wait">Deleting duplicate images, please wait…</string>
+    <string name="Deleting_duplicate_please_wait">Deleting duplicate, please wait…</string>
+    <string name="Deleting_duplicate_video_please_wait">Deleting duplicate video, please wait…</string>
+    <string name="Deleting_duplicate_videos_please_wait">Deleting duplicate videos, please wait…</string>
+    <string name="Deleting_duplicates_please_wait">Deleting duplicates, please wait…</string>
+    <string name="abort">Scanning process wil be stop?</string>
+    <string name="Documents_Duplicates">Documents Duplicates:</string>
+    <string name="Duplicate_Audio_Cleaned">Duplicate Audio Cleaned:</string>
+    <string name="Duplicate_Audios_Cleaned">Duplicate Audios Cleaned:</string>
+    <string name="Duplicate_Cleaned">Duplicate Cleaned:</string>
+    <string name="Duplicate_Document_Cleaned">Duplicate Document Cleaned:</string>
+    <string name="Duplicate_Documents_Cleaned">Duplicate Documents Cleaned:</string>
+    <string name="Duplicate_Video_Cleaned">Duplicate Video Cleaned:</string>
+    <string name="Duplicate_Videos_Cleaned">Duplicate Videos Cleaned:</string>
+    <string name="Duplicates_Found">Duplicates Found:</string>
+    <string name="Grant_Permission">Grant Permission</string>
+    <string name="Marked">Marked:</string>
+    <string name="Memory_Occupied">Memory Occupied:</string>
+    <string name="No_audio_duplicates_found">No audio duplicates found</string>
+    <string name="no_document_found">No document found</string>
+    <string name="no_image_found">No image found</string>
+    <string name="no_other_found">No other found</string>
+    <string name="no_video_found">No video found</string>
+    <string name="Number_of_digits_in_Photo_cleaned">Number of digits in Photo cleaned:</string>
+    <string name="Other_Duplicates">Other Duplicates:</string>
+    <string name="Photo_Duplicates">Photo Duplicates:</string>
+    <string name="Photos_Cleaned">Duplicate Photos Cleaned:</string>
+    <string name="least_one_audio">Select at least one audio.</string>
+    <string name="least_one_documents">Select at least one documents.</string>
+    <string name="least_one_others">Select at least one others.</string>
+    <string name="least_one_photo">Select at least one photo.</string>
+    <string name="least_one_video">Select at least one video.</string>
+    <string name="Please_select_parent_external_storage_dir">Please select parent external storage dir</string>
+    <string name="Space_Regained">Space Regained:</string>
+    <string name="Stop_Scanning">Stop Scanning</string>
+    <string name="Video_Duplicates">Video Duplicates:</string>
+    <string name="We_found_more_than">We found more than</string>
+    <string name="action_rescan">Rescan </string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_selected_audio">Confirm to delete selected duplicate audio?</string>
+    <string name="delete_selected_audios">Confirm to delete selected duplicate audios?</string>
+    <string name="delete_selected_document">Confirm to delete selected duplicate document?</string>
+    <string name="delete_selected_documents">Confirm to delete selected duplicate documents</string>
+    <string name="delete_selected_file">Confirm to delete selected duplicate file?</string>
+    <string name="delete_selected_files">Confirm to delete selected duplicate files?</string>
+    <string name="delete_selected_image">Confirm to delete selected duplicate image?</string>
+    <string name="delete_selected_images">Confirm to delete selected duplicate Images?</string>
+    <string name="delete_selected_video">Confirm to delete selected duplicate video?</string>
+    <string name="delete_selected_videos">Confirm to delete selected duplicate videos?</string>
+    <string name="documents">Documents</string>
+    <string name="duplicate_files_in_your_mobile">duplicate files in your mobile.</string>
+    <string name="duplicate_info_activity_media_text1">Media</string>
+    <string name="duplicate_info_activity_others_text1">Others</string>
+    <string name="duplicates_found">Duplicates Found</string>
+    <string name="duration">Duration:</string>
+    <string name="file_name">File name:</string>
+    <string name="file_size">File size:</string>
+    <string name="file_type">File type:</string>
+    <string name="grant_permession_message">You have denied permission to access internal/external storage contents</string>
+
+
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+
+    <string name="image_duplicates_found">No image duplicates found.</string>
+    <string name="information">Information</string>
+    <string name="modified_date">Modified date:</string>
+    <string name="no_audio_duplicates_found">No duplicates found.</string>
+
+    <string name="no_document_duplicates_found">No duplicates found.</string>
+    <string name="no_duplicates_found">No Duplicates found</string>
+    <string name="no_other_duplicates_found">No duplicates found.</string>
+    <string name="no_video_duplicates_found">No duplicates found.</string>
+    <string name="ok">OK</string>
+    <string name="preview">Preview</string>
+    <string name="resolution">Resolution:</string>
+    <string name="same_audio">All Audios of the same group cannot be selected.</string>
+    <string name="same_document">All documents of the same group cannot be selected.</string>
+    <string name="same_others">All others of the same group cannot be selected.</string>
+    <string name="same_photos">All photos of the same group cannot be selected.</string>
+    <string name="same_video">All videos of the same group cannot be selected.</string>
+    <string name="scan_activity_text_1">Please wait while Scanning files....</string>
+    <string name="scanning_completed">Scanning Completed</string>
+    <string name="single_Photo_Cleaned">Duplicate Photo Cleaned:</string>
+    <string name="transition_string">hello</string>
+    <string name="type">Type</string>
+    <string name="todo">todo</string>
+    <string name="accept">Accept</string>
+
+    <string name="manual_permission_grant_instruction">Go to settings -> Permissions to grant access to the required permissions.</string>
+    <string name="permission_denied">Permission denied.</string>
+    <string name="enable_permission">Enable Permission.</string>
+    <string name="grant">Grant</string>
+
+    <string name="read_contacts_permissions_explanation">Permission to read contacts is needed to find duplicate
+        contacts.
+    </string>
+    <string name="write_contacts_permissions_explanation">Permission to write contacts is needed to remove duplicate
+        contacts.
+    </string>
+    <string name="external_storage_permissions_explanation">Permission to access your storage is needed to create contact
+        backups.
+    </string>
+
+    <string name="privacy_five">Press accept button to use the app.\nThanks</string>
+    <string name="privacy_four">1.Delete Images\n2.Delete Audios.\n3.Delete Videos.\n4.Delete Documents.\n5.Delete Other Files.</string>
+    <string name="privacy_three">App features are:</string>
+    <string name="privacy_two">Press start button, then app will scan all your files and find duplicates.</string>
+    <string name="privacy_one">This app is used to search and delete duplicate files present in your mobile.</string>
+    <string name="privacy_policy">Terms &amp; Conditions</string>
+
+
+    <string name="required_on_lollipop">(The below permission is required for Lollipop and above devices)</string>
+    <string name="delete_selected_item">If you want to Delete selected items? Please grant the permission.</string>
+    <string name="document_to_exceptions">document to exceptions</string>
+    <string name="please_follow_below">Please follow the instruction in order to grant permission.</string>
+
+    <string name="duplicate_files_remover">Duplicate Files Remover</string>
+    <string name="remove_all_duplicate_files">Remove All Duplicate Files</string>
+    <string name="start">Start</string>
+    <string name="files_scanned">Files Scanned</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="duplicate_remover">Duplicate Remover</string>
+    <string name="exit_dialog">Exit Dialog</string>
+    <string name="are_you_sure_you_want_to_exit">Are you Sure you want to exit!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="duplicate_audios">Duplicate Audios</string>
+    <string name="duplicate_documents">Duplicate Documents</string>
+    <string name="duplicate_images">Duplicate Images</string>
+    <string name="duplicate_videos">Duplicate Videos</string>
+    <string name="duplicate_others">Duplicate Others</string>
+    <string name="paths">Paths Scanned</string>
+
+
+    <style name="AppTheme.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">@string/ad_attribution</item>
+        <item name="android:background">#FFCC66</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+
+    <string name="ad_attribution">adsatibution</string>
+    <string name="SelectAll">Select All</string>
+    <string name="action_un_mark_all">Deselect  All</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="scan_duplicate_photos_videos_and_other_nfiles_and_remove_them">Scan duplicate photos,videos and other \nfiles and remove them.</string>
+    <string name="path">/storage/emulated/0/Download/music_20210523_13447.mp3</string>
+    <string name="title">vidoe_20210523_13447.mp4</string>
+    <string name="delete_msg">File(s) Cleaned! You recoverd \n980KB of space</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="delete_duplicate_files">Delete Duplicate Files</string>
+    <string name="are_you_sure_you_want_to_delete_these_files">Are you sure? you want to delete these files</string>
+    <string name="noti_channel_noty">channel_notification_manager</string>
+    <string name="app_locker">App Locker</string>
+    <string name="battery_is_hibernated">Battery is hibernated</string>
+
+
+</resources>

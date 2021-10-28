@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.junckcleaner">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission
+        android:name="android.permission.GET_ACCOUNTS"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.DELETE_PACKAGES"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
+    <uses-permission
+        android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <uses-feature android:name="android.hardware.camera.any" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.QUERY_ALL_PACKAGES"
+        tools:ignore="QueryAllPackagesPermission" />
+    <uses-permission
+        android:name="android.permission.CLEAR_APP_CACHE"
+        tools:ignore="ProtectedPermissions" />
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_logo"
+        android:label="@string/app_name"
+        android:preserveLegacyExternalStorage="true"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/ic_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JunckCleaner"
+        tools:targetApi="r">
+        <activity
+            android:name=".views.activities.ActivitySplash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".views.activities.ActivityNotyApps"
+            android:exported="true" />
+        <activity
+            android:name=".views.activities.DeleteActivity"
+            android:exported="true" />
+        <activity
+            android:name=".views.activities.ActivityMoreApps"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityVerification"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityFeedback"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityDND"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityIgnoredList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityApplicationProtected"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivitySettings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityAppsManagments"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivitySmartCharge"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityNotificationManager"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityDuplicateFilesCommon"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityDuplicateFileScanner"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityLockSettings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityIntruderDetail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityIntrudersRecord"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityForgotPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityAddSecurityEmail"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivitySetSecurityQuestion"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.AppsLockerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.AntivirusActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivitySelectGameBoosterApps"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.GameBoosterActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.BatterySaverActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.CpuCoolerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.BoostActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.JunkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.activities.ActivityCreatePin"
+            android:screenOrientation="portrait" />
+        <activity android:name=".views.activities.BaseActivity" />
+        <activity
+            android:name=".views.activities.ActivityMain"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity android:name=".views.activities.ActivityServiceLocker" />
+        <activity android:name=".views.activities.ActivityCreatePattern" /> <!-- ads -->
+        <!-- <meta-data -->
+        <!-- android:name="com.google.android.gms.ads.APPLICATION_ID" -->
+        <!-- android:value="@string/app_open"/> -->
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+        <service
+            android:name=".services.NotificationChecker"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+        <service android:name=".services.AppLockService" />
+        <service android:name=".services.ServiceSmartCharge" />
+        <service android:name=".services.ServiceReminder" />
+
+        <receiver
+            android:name=".broadcasts.BootComplete"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_RESTARTED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".services.AppLockService$ScreenReceiver" />
+        <receiver android:name=".services.ServiceSmartCharge$SmartChargeChargerReceiver" />
+
+        <provider
+            android:name=".duplicatenew.utils.MyFileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/path_provider" />
+        </provider>
+    </application>
+
+</manifest>
